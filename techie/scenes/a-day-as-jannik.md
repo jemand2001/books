@@ -26,7 +26,7 @@ After breakfast, Jannik went back to his room to get his phone to text his frien
 
 JANN *hey, morning*
 
-Mark *how's it going?*
+MARK *how's it going?*
 
 JANN *as usual, the old guy is as bad as evr*
 
