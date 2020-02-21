@@ -25,24 +25,44 @@ Finally, his father stepped out of the doorway and let Jannik through into the k
 After breakfast, Jannik went back to his room to get his phone to text his friend Mark.
 
 JANN *hey, morning*
+
 Mark *how's it going?*
+
 JANN *as usual, the old guy is as bad as evr*
+
 JANN *i rly don't like him*
+
 MARK *yeah*
+
 MARK *screew that guy*
+
 JANN *so uhh*
+
 JANN *...*
+
 JANN *prob is that i need his money*
+
 MARK *yeah ik*
+
 JANN *and even more so now bc i jst had an idea for a project*
+
 MARK *srsly*
+
 JANN *yeah it's gr8*
+
 MARK *what is it*
+
 JANN *so yk that marvel film that cam oout a few years ago*
+
 JANN *Iron Man*
+
 MARK *you gotta be kidding*
+
 JANN *no hear me out*
+
 JANN *let's meet*
+
 JANN *dtsch einheit?*
+
 MARK *k, ill be thre*
 
