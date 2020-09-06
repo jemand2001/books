@@ -66,3 +66,20 @@ JANN *dtsch einheit?*
 
 MARK *k, ill be thre*
 
+Jannik put on his shoes and mask and turned on his headset. On the way, he'd listen to some rock music. On the way out, his father called, "stay safe!"
+
+## On the way
+
+he sat in the back of the bus. Jannik liked to watch other passengers, and there was quite the show today. at one stop, there was an older woman who refused to put on a mask.
+	"Hey, lady, can't you see the sign?" - that was the driver, pointing to a sign clearly stating that you had to wear a mask.
+	"sure, i see it - " - the woman. her voice seemed ... odd. the whole person did, now that jannik got a closer look, though he couldn't put it in words.
+	"then why are you not doing what it says"
+	"well you see, i'm fairly certain i'm immune"
+	"then sell your cure, but please still wear a mask, 'cause there's a patrol on this line today, and if they find you, they won't let either of us go easily. plus, you're wasting everyone's time"
+	"well alright then."
+she seemed content with that argument, pulling a light cyan surgical mask from her bag and putting it on. she then strolled over to jannik and sat across from him.
+	"you look ... promising."
+	"who, me? i'm hopeless"
+	"yes, you. you're clearly not hopeless, since you're not at home, cowering in fear. you've got ideas. mind to share them?"
+	"well, you see, there's a distinct lack of superheroes in the world"
+	
