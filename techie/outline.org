@@ -7,7 +7,7 @@
 ** School in Erkrath
 ** Home in Carlstadt, Düsseldorf
 ** 
-** me but more motivated + bit more intelligent
+** me but more motivated + bit more intelligent, less cautious
 ** just started uni *OR* got rejected from uni (so he has more time for other stuff)
 ** first gen superhero
 *** specialty: mechanics
@@ -38,6 +38,7 @@
 ** Jane Doe (unrel)
 ** 
 ** from: Southern Germany
+** in Düsseldorf on a conference
 ** 
 ** PhD in biology
 ** decided the world needs heroes
@@ -72,27 +73,25 @@
 ** other dude
 ** 
 ** hacker
-** 
 
 * Book 3
 ** focus: MC 3
 ** 
 
 * Setting
-** Books 1-3 :: modern day earth
+** Books 1-3 : modern day earth
 *** *no* (publicly known) sustained outer space colonies
 *** *no* (public) time travel
 *** *no* overt superhero/supervillain activity
-*** 
-
-* Time Frame
-** Book 1-3:
-*** start: all on the same day 
-**** 13 May 2013
-*** end:
-**** 2019/20 (?)
-**** MCs 1-3 meet shortly earlier
-***** TODO a month?
+*** *no* (known) alien civilizations
+** Time Frame
+*** Book 1-3:
+**** start: late 2020
+**** end:
+***** 2024 (?) (far future probably)
+***** MCs 1-3 meet shortly earlier
+****** TODO a month?
+*** the ongoing pandemic has prompted several major governments to pull out stops prohibiting research in fields like genetic modifications
 
 * Side Characters
 ** Helmut Davidson
@@ -100,6 +99,7 @@
 *** boss of a semi-relevant investing firm
 *** father of Jannik
 **** wants to teach him about investing, not very successfully
+**** tries to get him to wear suits
 *** TODO husband of ...?
 ** Mark
 *** friend of Jannik
