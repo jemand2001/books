@@ -10,7 +10,7 @@ When Jannik woke up, he knew it would be a bad day. The clock showed 10:31, and 
 Jannik threw on a pair of jeans and a blank T-shirt -- his father would never allow him to be seen in public with a band T-shirt or something like that. He actually preferred business suits, but had never managed to convince Jannik to wear those.
 He then headed down to the ground floor, where the breakfast table had already been cleaned and his father was waiting for him.
 	"What are you thinking? You always stay up until what, 3:00? you know that's unhealthy *and* unproductive. And it also means you don't get any breakfast."
-	"Yes, father, i know all of this.can you let me through, please?"
+	"Yes, father, i know all of this. can you let me through, please?"
 	"We had pancakes! And now they're all gone, because *you* couldn't be bothered to go to bed at a reasonable time."
 	"You *could* have left some anyway"
 	"But why would we, if we don't know that you'll come down before they get cold?"
@@ -52,7 +52,7 @@ JANN *yeah it's gr8*
 
 MARK *what is it*
 
-JANN *so yk that marvel film that cam oout a few years ago*
+JANN *so yk that marvel film that came oout a few years ago*
 
 JANN *Iron Man*
 
@@ -60,7 +60,7 @@ MARK *you gotta be kidding*
 
 JANN *no hear me out*
 
-JANN *let's meet*
+JANN *lets meet*
 
 JANN *dtsch einheit?*
 
