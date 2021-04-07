@@ -1,3 +1,7 @@
+* Format
+** story in a story
+** MCs tell their origin story to some government official
+
 * Main Character #1
 ** Jannik Davidson
 ** son of Helmut Davidson, boss of a semi-relevant investing firm
@@ -35,17 +39,16 @@
 *** up until 4am working
 
 * Main Character #2
-** Jane Doe (unrel)
-** 
+** Marie Stein
 ** from: Southern Germany
 ** in Düsseldorf on a conference
 ** 
 ** PhD in biology
-** decided the world needs heroes
+** decided the world needs heroes (witnessed a robbery?)
 ** => first gen superhero
 *** specialty: microbiology/bio-hacking
 *** motivation: FOR SCIENCE!!!
-** spends book 2 developing a gene therapy -> healing factor (?)
+** spends book 2 developing a gene therapy -> healing factor (?), scales
 
 * Book 2
 ** focus: MC 2
@@ -57,8 +60,9 @@
 *** cancer
 ** conflict:
 *** > what are you doing there
-*** > this is the fifth time you got to the hospital in 3 years
+*** > this is the fifth time you got to the hospital in a year
 *** genetics is hard
+**** genetics on yourself is painful and dangerous
 ** end:
 *** meets MC 1 & 3
 ** set scenes:
