@@ -36,7 +36,7 @@ Dinner was served, and they began to eat.
 
 "Yes, I remember that. Now, which of these would be the easiest in your opinion?"
 
-"Well ideally I'd want all of these -- a fully colonized Mars, Moon, and Venutian atmosphere along with a swarm of those cylinders. But for a start, I think an O'Neill Cylinder would be the best. You pull an asteroid from the Belt, melt it into steel plates, and voi-là: you can now build a very big barrel."
+"Well ideally I'd want all of these -- a fully colonized Mars, Moon, and Venutian atmosphere along with a swarm of those cylinders. But for a start, I think an O'Neill Cylinder would be the best. You pull an asteroid from the Belt, melt it into steel plates, and voi-là: you can now build a very big barrel."
 
 "Assuming you have the infrastructure to get an asteroid in our orbit, a space station equipped to lodge the workers, and a foundry in orbit. None of these things currently exist, and they will not for quite a while."
 
@@ -79,5 +79,43 @@ That would be the opposite of what Mr. Lukas wants us to do.
 ## Constructing The Tug
 
 A year later, Sam visited the Vehicle Assembly Building of Lukas Orbital Industries to inspect progress on the asteroid tug. After checking in with security, he was greeted by Natalie, the project manager.
+
+"Good morning, Sir! You're in luck: we're just about to test the attachment mechanism."
+
+"Good morning! That sounds very interesting."
+
+"It sure is. After all, this is going to ram a pretty big rock at orbital speeds -- there's no way it's *not* going to be interesting. If you would follow me, please?"
+
+With that, she led him to a sort of dressing room, where they changed into bunny suits. Since Sam had founded the company, he was familiar with the procedure: spacebound hardware had to stay as clean as absolutely possible to avoid contamination and malfunctions.
+After dressing up, they could enter the large cleanroom dedicated to building the tug.
+
+As is often the case with spacecraft, this one consisted mostly of a large tank of fuel and oxidizer. The rest of the craft was made up of a few strong rocket engines, a control board, and a sort of claw-shaped mechanism to latch on to the asteroid as well as some large solar panels that would power the controller on its journey.
+
+That journey would take quite a while -- about two years, according to the engineers' calculations. In that time, just about nothing could be done in case of a failure except build another tug.
+Luckily the odds of a failure were very low at this point, and the trips should go by without a problem.
+
+"Have there been any issues?"
+
+"Nothing we can't deal with, Sir. The biggest problem is a stuck valve on the oxidizer pre-burner."
+
+Of course, a stuck valve anywhere could lead to disaster: an engine wouldn't stop firing, making the spacecraft overshoot the target orbit with little recourse. In fact, the orbit would probably end up near Jupiter, far away from anything interesting or useful.
+
+"Well we can't have that now can we," Sam said. "You better have that fixed by next month, or we have to pick a different target."
+
+"Of course, Sir. We will get right on it."
+
+"Good. Anything else? I see the engine mounting points are looking a bit thin."
+
+"Well, we calculated that this was enough to take the force we need. It's not like we can afford very much extra mass."
+
+"Of course not. It's going to be expensive as it is, more mass will not help that."
+
+"Right. Other than that, everything seems fine. We are still targeting next month for launch."
+
+"Very good. Thank you for showing me around."
+
+"No problem, Sir."
+
+After the tour, Sam undressed and exited the VAB. He knew his engineering team would figure out any kinks, but if a "stuck valve" was going to be responsible for this setback it would look very bad for everyone involved.
 
 
